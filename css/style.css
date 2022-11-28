@@ -44,7 +44,7 @@ body {
     display: flex;
 }
 .header {
-    margin-bottom: 5px;
+    border-bottom: 1px solid #ECECEC;
 }
 /* logo studio */
 .header-logo {
